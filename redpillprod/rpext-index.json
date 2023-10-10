@@ -1,6 +1,5 @@
 {
   "id": "pocopico.redpilldev",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpillprod/rpext-index.json",
   "info": {
     "name": "redpill",
     "description": "Adds  Support",
@@ -122,6 +121,25 @@
     "fs2500_42962": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpillprod/releases/v1000_42962.json",
     "fs2500_64561": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpillprod/releases/v1000_64561.json",
     "fs2500_64570": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpillprod/releases/v1000_64570.json",
+    "ds1019p_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/apollolake_69057.json",
+    "ds918p_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/apollolake_69057.json",
+    "ds3617xs_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/broadwell_69057.json",
+    "rs3618xs_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/broadwell_69057.json",
+    "ds1621xs_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/broadwellnk_69057.json",
+    "ds3622xsp_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/broadwellnk_69057.json",
+    "rs4021xsp_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/broadwellnk_69057.json",
+    "dva3219_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/denverton_69057.json",
+    "dva3221_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/denverton_69057.json",
+    "sa6400_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/epyc7002_69057.json",
+    "ds1520p_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/geminilake_69057.json",
+    "ds920p_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/geminilake_69057.json",
+    "dva1622_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/geminilake_69057.json",
+    "ds723p_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/r1000_69057.json",
+    "ds923p_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/r1000_69057.json",
+    "ds1621p_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/v1000_69057.json",
+    "ds2422p_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/v1000_69057.json",
+    "fs2500_69057": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/releases/v1000_69057.json",
     "endofmodel": "endofurls"
-  }
+  },
+  "url": "https://raw.githubusercontent.com/csmodfw/rp-ext/master/redpillprod/rpext-index.json"
 }
